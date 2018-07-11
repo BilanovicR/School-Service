@@ -1,0 +1,3 @@
+Danica|Todoric|1234123456345|danica|dt1|REDOVNI
+Dusan|Surla|5554446685214|surla|d1|REDOVNI
+Zora|Konjovic|5468523145896|zorak|zora1|REDOVNI

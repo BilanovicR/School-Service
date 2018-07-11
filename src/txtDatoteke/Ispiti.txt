@@ -1,0 +1,2 @@
+baze podataka|12345|8
+OOP|12345|9

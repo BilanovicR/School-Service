@@ -1,0 +1,4 @@
+Ruzica|Bilanovic|1231231231231|ruzica|rb123|Dusan|12345|SII|null|rb@singi.rs|Obrovac|Nn|23|123456|1|200
+Biljana|Bilanovic|1238524962514|bilja|bb77|Slavica|55889|IT|null|bb@b.b|Obrovac|bb|2|987987|1|0
+Vujos|Petrovic|3332221115421|vujos|p1|Marija|66565|SII|null|v@mail.com|Beograd|Bulevar|1|445447|1|0
+Jovana|Ivic|1237891237895|jovana|ivic1|Marija|12368|SII|null|jovana@ivic.com|Beograd|Beogradska|1|756984|2|0
